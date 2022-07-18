@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { motion } from "framer-motion";
-import styles from "./button.module.css";
+import styles from "./Button.module.css";
 import { MdCardMembership } from "react-icons/md";
 import { HiOutlineBookOpen } from "react-icons/hi";
 import { BsWhatsapp } from "react-icons/bs";
